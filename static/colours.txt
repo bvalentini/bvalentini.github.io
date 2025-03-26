@@ -1,0 +1,20 @@
+#EC5228
+ #F14A00; 
+
+#EF9651
+
+#FF8225
+#F4A261
+
+#3C3D37
+
+
+Monochromatic palette 
+#FF6500
+#FFA366 (Light Orange)
+#FFC299 (Pastel Orange)
+#FFE0CC (Soft Peach)
+
+#CC5200 (Deep Orange)
+#993D00 (Burnt Orange)
+#662900 (Dark Brown-Orange)

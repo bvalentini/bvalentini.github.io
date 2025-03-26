@@ -1,0 +1,62 @@
+@media (max-width: 1800px){
+    .intro-container{
+        display: flex; 
+        columns: 2fr;
+        flex-wrap: wrap;
+        justify-content: center; 
+    }
+    .roadmap{
+        display: flex;
+        justify-content: center; 
+    }
+    .roadmap img{
+    max-width: 100%;
+    max-height: auto;
+    }
+}
+@media(max-width: 1500px){
+    .graph-container{
+        display: flex;
+        flex-wrap: wrap;
+        columns: 1fr;
+        justify-content: center;
+    }
+    .graph img{
+        max-width: 800px;
+        max-height: 800px;
+        margin-top:20px;
+    }
+}
+@media(max-width: 1000px){
+    .intro-container{
+        display: flex; 
+        columns: 1fr;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .roadmap{
+        display: flex;
+        justify-content: center; 
+    }
+    .roadmap img{
+    max-width: 100%;
+    max-height: auto;
+    }
+    .header h1{
+        font-size: 120px;
+    }
+    .location-info{
+        justify-content: space-between;
+    }
+    .graph-container{
+        display: flex;
+        flex-wrap: wrap;
+        columns: 1fr;
+        justify-content: center;
+        margin-top:20px;
+    }
+    .graph img{
+        max-width: 500px;
+        max-height: 500px;
+    }
+}

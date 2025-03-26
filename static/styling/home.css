@@ -1,0 +1,124 @@
+body, html{
+    background-color: black;
+    padding: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+h1{
+    color:white;
+    font-size: 60px;
+}
+h2{
+    color:white;
+    padding: 10px;
+    font-size: 30px;
+}
+
+p{
+    padding: 20px;
+    font-size: 25px;
+    color:white;
+}
+
+strong{
+    color: #FF8225;
+}
+
+li{
+    font-size:25px;
+    color: white;
+}
+a{
+    color: blue;
+}
+.header{
+    text-align: center;
+}
+
+.header h1{
+    color: #FF6500; 
+    font-size: 160px;
+    padding: 20px;
+}
+.info{
+    border: 10px #FF6500 solid;
+    background-color: #1A1A1A;
+    padding: 20px;
+    color: white;
+    font-size: 25px;
+    line-height:1.5em;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.roadmap-container{
+    border: 10px #FF6500 solid;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+.roadmap{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    
+}
+.roadmap img{
+    max-width: 100%;
+    max-height: auto;
+    padding:20px;
+}
+
+.picture{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.picture img{
+    max-width: 600px;
+    max-height:600px;
+    border: 10px #FF6500 solid;
+    padding: 20px;
+}
+.business-structure{
+    border: 10px #FF6500 solid;
+    background-color: #1A1A1A;
+    padding: 20px;
+    color: white;
+    font-size: 25px;
+    line-height:1.5em;
+    margin-bottom: 100px;
+}
+.decision-tree{
+    border: 10px #FF6500 solid;
+    padding: 20px;
+    margin-bottom: 100px;
+    background-color: #1A1A1A;
+}
+.decision-tree img{
+    max-width: 100%;
+    max-height: auto;
+}
+.location-container{
+    border: 10px #FF6500 solid;
+    margin-bottom: 100px;
+    background-color: #1A1A1A;
+    padding:20px;
+}
+
+.location-info{
+    padding: 20px;
+    justify-content: center;
+}
+.graph-container{
+    display: flex;
+    grid-template-columns: 3fr;
+    padding:10px;
+}
+.graph img{
+    max-width: 100%;
+    max-height: auto;
+}
+.additional{
+    border: 10px #FF6500 solid;
+    margin-bottom: 100px;
+    background-color: #1A1A1A;
+    padding: 20px;
+}
